@@ -9,3 +9,12 @@
 
 ## Tags
 This app has been worked through sections, so if you want to see an specific section, you can go through tags to take a look at them.
+
+### setting-up
+* Add files for organize repository
+    * .gitignore
+    * LICENSE
+    * README.md
+    * .swiftlint.yml
+* Adjust project to be iPad only
+* Add `Swiftlint`
