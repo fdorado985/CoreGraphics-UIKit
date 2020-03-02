@@ -23,3 +23,8 @@ This app has been worked through sections, so if you want to see an specific sec
 | Screenshot 01 |
 | ------------- |
 | ![ss01](.screenshots/ss01.png) |
+
+### drawing-into-a-coregraphics-context
+| Screenshot 02 |
+| ------------- |
+| ![ss02](.screenshots/ss02.png) |
