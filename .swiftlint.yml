@@ -1,0 +1,4 @@
+line_length: 200
+
+colon:
+  apply_to_dictionaries: false
