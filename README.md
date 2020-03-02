@@ -18,3 +18,8 @@ This app has been worked through sections, so if you want to see an specific sec
     * .swiftlint.yml
 * Adjust project to be iPad only
 * Add `Swiftlint`
+
+### creating-the-sandbox
+| Screenshot 01 |
+| ------------- |
+| ![ss01](.screenshots/ss01.png) |
