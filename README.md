@@ -28,3 +28,8 @@ This app has been worked through sections, so if you want to see an specific sec
 | Screenshot 02 |
 | ------------- |
 | ![ss02](.screenshots/ss02.png) |
+
+### ellipses-and-checkerboards
+| Screenshot 03 | Screenshot 04 |
+| ------------- | ------------- |
+| ![ss03](.screenshots/ss03.png) | ![ss04](.screenshots/ss04.png) |
