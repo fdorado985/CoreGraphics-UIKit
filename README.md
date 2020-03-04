@@ -38,3 +38,8 @@ This app has been worked through sections, so if you want to see an specific sec
 | Screenshot 05 | Screenshot 06 |
 | ------------- | ------------- |
 | ![ss05](.screenshots/ss05.png) | ![ss06](.screenshots/ss06.png) |
+
+### images-and-text
+| Screenshot 07 |
+| ------------- |
+| ![ss07](.screenshots/ss07.png) |
